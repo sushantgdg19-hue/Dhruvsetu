@@ -1,0 +1,6 @@
+{
+  "name": "DhruvSetu - India's Polar Knowledge & Outreach Platform",
+  "description": "Connecting India's polar research, expeditions, institutions, and public education across Arctic, Antarctica, and Himalayan frontiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
